@@ -198,7 +198,7 @@ function toggleTestMode() {
         document.querySelector('#reset').disabled = false;
         stopTestMode();
     }
-    document.querySelector('#toggleMode').textContent = isTestMode ? 'Stop Test Mode' : 'Start Test Mode';
+    // document.querySelector('#toggleMode').textContent = isTestMode ? 'Stop Test Mode' : 'Start Test Mode';
 }
 
 function startTestMode() {
