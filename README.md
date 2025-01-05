@@ -1,9 +1,9 @@
-# MP730624_tools
+# MultiCompPro_MP730624
 
 ## ble-multimeter-app
-Used to provide remote access to the MP730624 multimeter display
+Used to provide a remote view of the Multicomp Pro MP730624 multimeter via bluetooth.
 
-To use, click here --> [ble-multimeter-app](https://shabaz123.github.io/MP730624_tools/ble-multimeter-app/) and then hit the **Meter Sel.** button to select your Bluetooth multimeter device. 
+To use, click here --> [ble-multimeter-app](https://mattcuk.github.io/MulticompPro-MP730624/ble-multimeter-app/) and then hit the **Meter Sel.** button to select your Bluetooth multimeter device. 
 
 To turn on Bluetooth on the multimeter, hold down the **Hz/Duty/Bluetooth** button that is next to the rotary dial, on the right side of the meter.
 
@@ -15,4 +15,4 @@ Please check each range makes sense before relying on the app! I’m not liable 
 
 In particular, the Web Bluetooth API doesn't seem to be supported on Apple mobile devices (iPhone and iPad). However, there is a good workaround for Apple mobile products. The solution is to download an alternative browser from the Apple mobile store, called [WebBLE](https://apps.apple.com/us/app/webble/id1193531073) . That supports the Web Bluetooth API. It costs $1.99. To use it, launch that app, and then tap near the top of the page in order to bring up an address bar. Then, it behaves like a normal web browser and you can click on the same link as mentioned earlier, i.e.:
 
-[ble-multimeter-app](https://shabaz123.github.io/MP730624_tools/ble-multimeter-app/)
+[ble-multimeter-app](https://mattcuk.github.io/MulticompPro-MP730624/ble-multimeter-app/)
