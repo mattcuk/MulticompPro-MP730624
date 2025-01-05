@@ -1,4 +1,4 @@
-var GHPATH = '/MP730624_tools/ble-multimeter-app';
+var GHPATH = '/MulticompPro-MP730624/ble-multimeter-app';
 var APP_PREFIX = 'mp_ble_meter_';
 var VERSION = 'version_002';
 var URLS = [    

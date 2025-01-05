@@ -3,6 +3,8 @@
 ## ble-multimeter-app
 Used to provide a remote view of the Multicomp Pro MP730624 multimeter via bluetooth.
 
+Forked and modified from the original written by [Shabaz123](https://github.com/shabaz123) [here](https://github.com/shabaz123/MP730624_tools).
+
 To use, click here --> [ble-multimeter-app](https://mattcuk.github.io/MulticompPro-MP730624/ble-multimeter-app/) and then hit the **Meter Sel.** button to select your Bluetooth multimeter device. 
 
 To turn on Bluetooth on the multimeter, hold down the **Hz/Duty/Bluetooth** button that is next to the rotary dial, on the right side of the meter.
